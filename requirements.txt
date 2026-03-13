@@ -1,0 +1,8 @@
+streamlit
+langchain
+langgraph
+groq
+requests
+fpdf
+matplotlib
+python-dotenv
